@@ -14,7 +14,7 @@ This project focuses on the development of an interactive Excel dashboard for an
 - Data Cleaning
 
 ## Usage
-To use the Excel dashboard, open the `coffee_shop_dashboard.xlsx` file in Microsoft Excel. Ensure to enable macros for full functionality.
+To use the Excel dashboard, open the `Cofee_Shop_project_Dashboard.xlsx` file in Microsoft Excel. Ensure to enable macros for full functionality.
 
 ## Contact
 For any inquiries, please contact - surunatekar@gmail.com.
