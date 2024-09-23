@@ -28,5 +28,9 @@ This project involves the creation of an interactive Excel dashboard designed fo
 ## Usage
 To use the Excel dashboard, open the `Cofee_Shop_project_Dashboard.xlsx` file in Microsoft Excel. Ensure to enable macros for full functionality.
 
+## ![Dashboard Preview](Dashboard_preview.png)
+![Dashboard_Preview](https://github.com/user-attachments/assets/6b1b4978-6b13-4b5b-86a1-398843870b3a)
+
+
 ## Contact
 For any inquiries, please contact - surunatekar@gmail.com.
